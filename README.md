@@ -61,8 +61,10 @@ sql-data-analysis/
 4. Execute the database setup and data insertion statements, then run the analysis queries.
 5. Inspect the results and compare them with business questions above.
 
-Author
-Lonwabo Kilani
+**Author**
+
+**Lonwabo Kilani**
+
 Aspiring Data Analyst| SQL | Excel | Power BI 
 
 
